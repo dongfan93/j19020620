@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.qf.j1902.dao.TestBmiDao
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.263 s <<< FAILURE! - in com.qf.j1902.dao.TestBmiDao
+bmidaotest(com.qf.j1902.dao.TestBmiDao)  Time elapsed: 0.219 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.qf.j1902.dao.TestBmiDao.bmidaotest(TestBmiDao.java:17)
+
